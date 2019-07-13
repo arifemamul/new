@@ -1,0 +1,23 @@
+#border{
+	color: rgb(240, 240, 240);
+	background-color: rgb(120, 120, 120);
+}
+
+#box{
+	width: 40%;
+
+}
+img{
+
+	margin: 10px;
+	padding: 2px;
+}
+.footer{
+	margin: 10px;
+	background-color: black; 
+	color:white; 
+	text-align: center;
+}
+#profile{
+	align-items: center;
+}
